@@ -1,19 +1,19 @@
 html, body{
-	font-family: serif;
+	font-family: Trebuchet MS;
 	margin: 0;
 }
 
 
 header{
-	background-color: #00004C;
+	background-color: #3973ac;
 	padding: 10px;
 	text-align: center;
 
 }
 
 h1{
-	font-size: 50px;
-	color: white;
+	font-size: 65px;
+	color: #992600;
 }
 
 h3{
@@ -24,7 +24,6 @@ h3{
 header img{
 	border-radius: 280px;
 	width: 400px;
-	border: 15px solid #CC0000;
 }
 
 .row{
@@ -41,6 +40,7 @@ header img{
 	max-width: 900px;
 	margin: 0 auto;
 	padding: 0 30px;
+	background-color: #3973ac;
 }
 
 
@@ -57,14 +57,14 @@ header img{
 }
 
 a{
-	color: red;
+	color: yellow;
 	text-decoration: none;
 
 }
 
 footer{
 	padding: 40px 20px;
-	background-color: #E6E6E6;
+	background-color: lightgrey;
 	margin-top: 20px;
 
 }
@@ -77,4 +77,8 @@ footer ul li{
 	display: inline-block;
 	margin: 0 1px;
 
+}
+
+.wrapper{
+	background-color: #3973ac;
 }
